@@ -1,0 +1,45 @@
+body {
+  border: 2px solid black;
+  background-color: #ccc;
+}
+/* profile setting  */
+.first {
+  background-color: black;
+  color: white;
+  width: 273px;
+  text-decoration: underline;
+}
+.profile {
+  float: left;
+  /* display: inline-block; */
+  width: 100%;
+}
+.p_image {
+  height: 150px;
+  width: 150px;
+}
+.p_address {
+  margin-left: 155px;
+  font-size: 2em;
+  margin-top: -156px;
+  width: 40%;
+}
+/* QR Code setting  */
+.qr_picture {
+  float: right;
+  margin-right: 120px;
+  margin-top: -210px;
+  border: 1px solid black;
+}
+figcaption {
+  background-color: purple;
+  color: white;
+  font-weight: bold;
+  border: 1px solid black;
+}
+h2 {
+  text-align: center;
+}
+.second {
+  text-align: start;
+}
